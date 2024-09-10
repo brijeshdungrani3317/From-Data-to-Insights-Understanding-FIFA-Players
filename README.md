@@ -3,6 +3,7 @@
  ⚽ 📊  This project analyzes and visualizes data from the FIFA video game series to explore player attributes, team statistics, and game-related insights using Python and popular data science libraries.
 
 Key Components:
+
 1.) Data Import and Preprocessing 🗃️
 
 Utilizes pandas to read and manipulate CSV files containing FIFA player data.
